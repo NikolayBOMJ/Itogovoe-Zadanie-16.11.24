@@ -1,0 +1,213 @@
+
+.mainBlockFirstColor {
+    background-color: #2378FC;
+    height: 400px;
+}
+
+.mainBlockSecondColor {
+    background-color: #FFC41E;
+    height: 800px;
+}
+
+.mainBlockThirdColor {
+    background-color: #FAF3E3;
+    height: 600px;
+    
+}
+.container {
+    height: 100px;
+}
+
+.colorBlack {
+    background-color: rgba(0, 0, 0, 0.56);
+}
+section {
+    padding: 30px 0;
+}
+
+.headerMain {
+    height: 500px;
+}
+.nav {
+    padding: 10px;
+    font-size: 20px;
+}
+.nav-link {
+    color: white;
+}
+
+menu {
+    height: 50px;
+}
+header {
+    background-image: url(images/headerbackground.jpeg);
+    height:660px;
+    background-repeat: no-repeat;
+}
+
+.headerTwo {
+    height: 450px;
+}
+
+.headerTwoSmall {
+    height: 350px;
+}
+.headerTwoSmallSmall {
+      display: flex;
+      justify-content: space-around;
+      height: 300px;
+      
+}
+.headerTwoSmallSmallOne {
+    text-align: left;
+    width: 350px;
+   
+}
+.headerTwoSmallSmallOne h1{
+    color: rgb(255, 255, 255);
+}
+.headerTwoSmallSmallOne p{
+    color: rgb(251, 251, 251);
+    font-size: 20px;
+}
+.headerTwoSmallSmallOne p2{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.headerTwoSmallSmallTwo {
+    padding: 60px 20px;
+    width: 550px;
+    
+   
+}
+.blockOne {
+    height: 100px;
+}
+.blockTwo {
+    height: 100px;
+}
+.headerCard {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.blockOneSmallOne {
+    color: white;
+    background-color: #2378FC;
+    width: 150px;
+    height: 80px;
+}
+.blockOneSmallTwo {
+    color: white;
+    background-color: #30BCC9;
+    width: 150px;
+    height: 80px;
+}
+.blockTwoSmallOne {
+    color: white;
+    background-color: #FFC41E;
+    width: 150px;
+    height: 80px;
+}
+.blockTwoSmallTwo {
+    color: white;
+    background-color: #F6404F;
+    width: 150px;
+    height: 80px;
+}
+
+.blockMainBlue {
+    height: 350px;
+    
+}
+.blockMainYellow {
+    height: 750px;
+}
+.blockMainWhite {
+    height: 550px;
+}
+.blockMainAqua {
+    height: 550px;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+i {
+    color: rgb(241, 241, 241);
+    font-size: 30px;
+}
+
+p1 {
+    color: white;
+}
+
+p2 {
+    font-size: 17px;
+    text-align: center;
+    text-decoration: underline;
+    color: gold
+}
+p3 {
+    color: white;
+    font-size: 17px;
+}
+
+h5 {
+    font-weight: bold;
+    color: white;
+
+}
+
+p4 {
+    text-align: left;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0);
+    border-color:rgba(0, 0, 0, 0)
+}
+
+.cardAlign {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body p {
+    font-size: 10px;
+}
+
+.card-title {
+    color: red;
+}
+
+hr {
+    color: white;
+    border: 1px solid;
+    border-color: white;
+}
+
+.footer {
+    height: 600px;
+    background-color: rgb(88, 209, 209);
+}
+
+
+.btn-outline-secondary {
+    background-color: #F6404F;
+    border-color: #F6404F;
+}
+
+.socialMedia {
+    font-size: 50px;
+}
